@@ -1,6 +1,6 @@
 ## Aryan Ninawe 
 
- # About ne
+👋 About Me.
  
 Hi! I’m a final-year Electronics and Telecommunication engineering student who enjoys exploring software development and understanding how real-world technology works. I have a strong interest in Python, AI, MySQL and machine learning, and I like learning by doing and applying my knowledge to practical tasks.
 
