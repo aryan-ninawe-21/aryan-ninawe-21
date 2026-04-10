@@ -13,10 +13,15 @@ I believe in consistency, writing clean code, and improving a little every day. 
 🛠 Tech Stack & Interests
 
 Python
+
 Machine Learning
+
 Data Handling
+
 Problem Solving
+
 Continuous Learning
+
 MySql
 
 📌 Always open to learning, collaboration, and new opportunities. 🚀
