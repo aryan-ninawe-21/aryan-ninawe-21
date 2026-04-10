@@ -1,6 +1,7 @@
-## Hi there 👋
+## Aryan Ninawe 
 
-
+ # About ne
+ 
 Hi! I’m a final-year Electronics and Telecommunication engineering student who enjoys exploring software development and understanding how real-world technology works. I have a strong interest in Python, AI, MySQL and machine learning, and I like learning by doing and applying my knowledge to practical tasks.
 
 I have gained hands-on experience through internships in AI/ML and Python development, where I worked on real-world problems, improved my coding skills, and learned how to handle data and build basic solutions. These experiences helped me build a strong foundation and boosted my confidence in applying my skills.
